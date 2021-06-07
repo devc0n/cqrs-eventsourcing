@@ -17,6 +17,11 @@
         <java.version>11</java.version>
     </properties>
     <dependencies>
+        <dependency>
+            <groupId>com.springbank</groupId>
+            <artifactId>user.core</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
 		<dependency>
 			<groupId>org.axonframework</groupId>
 			<artifactId>axon-spring-boot-starter</artifactId>
